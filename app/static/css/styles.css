@@ -45,3 +45,9 @@
 #likes article footer {
     margin-top: auto;
 }
+
+#ranNum{
+    font-size: 10rem;
+    color: var(--pico-color);
+    font-weight: 500;
+}
