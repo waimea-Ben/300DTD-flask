@@ -52,17 +52,17 @@
     font-weight: 500;
 }
 
-/* //main {
+#404 {
     flex: 1;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-  } */
+  } 
 
-  footer {
+footer {
     background-color: #eee;
     text-align: center;
     padding: 1rem;
     font-size: 0.9rem;
-  }
+}
