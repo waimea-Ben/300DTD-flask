@@ -52,13 +52,13 @@
     font-weight: 500;
 }
 
-main {
+/* //main {
     flex: 1;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-  }
+  } */
 
   footer {
     background-color: #eee;
