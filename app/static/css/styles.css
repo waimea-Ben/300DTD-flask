@@ -1,6 +1,21 @@
+html,body{
+    height: 100%;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    min-height: 77%;
+}
+
 * {
     font-family: "Quicksand", sans-serif;
     box-sizing: border-box;
+}
+
+nav{
+    background-color: var(--pico-text-selection-color);
+    padding: 1rem;
 }
 
 #titleA {
@@ -50,6 +65,7 @@
     font-size: 10rem;
     color: var(--pico-color);
     font-weight: 500;
+    text-align: center;
 }
 
 #404 {
@@ -61,8 +77,8 @@
   } 
 
 footer {
-    background-color: #eee;
     text-align: center;
     padding: 1rem;
     font-size: 0.9rem;
+    width: 100%;
 }
